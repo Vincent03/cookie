@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       
+        <title>Présentation</title>
+    </head>
+
+    <body>
+    <h1> Cookie click</h1>
+    <script type="text/javascript" src="cookie.js"></script>
+
+    
+    </body>
+</html>
